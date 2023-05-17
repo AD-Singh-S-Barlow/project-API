@@ -4,3 +4,4 @@
 -- VALUES (59,"Quandale","Dingle")
 
 SELECT * FROM kiraKills;
+USER_NAME()
